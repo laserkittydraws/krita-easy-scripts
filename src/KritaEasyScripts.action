@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ActionCollection version="2" name="Scripts">
+    <Actions category="Scripts">
+        <text>Krita Easy Scripts</text>
+
+        <Action name="kes_DupAndFlipSelectionH">
+
+            <icon></icon>
+            <text>Flip Selection Horizontal</text>
+            <whatsThis>Duplicates and flips selection horizontally</whatsThis>
+            
+            <toolTip></toolTip>
+            <iconText></iconText>
+            
+            <activationFlags>00100</activationFlags>
+            <activationConditions>0</activationConditions>
+            
+            <shortcut>shift+h</shortcut>
+            <isCheckable>false</isCheckable>
+            <statusTip></statusTip>
+        
+        </Action>
+
+        <Action name="kes_DupAndFlipSelectionV">
+
+            <icon></icon>
+            <text>Flip Selection Horizontal</text>
+            <whatsThis>Duplicates and flips selection horizontally</whatsThis>
+            
+            <toolTip></toolTip>
+            <iconText></iconText>
+            
+            <activationFlags>00100</activationFlags>
+            <activationConditions>0</activationConditions>
+            
+            <shortcut>shift+g</shortcut>
+            <isCheckable>false</isCheckable>
+            <statusTip></statusTip>
+        
+        </Action>
+
+    </Actions>
+</ActionCollection>
