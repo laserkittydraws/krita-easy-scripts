@@ -1,1 +1,1 @@
-from .myplugin import *
+from .KritaEasyScripts import *
